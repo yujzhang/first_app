@@ -1,4 +1,5 @@
-first_app
+#Ruby on rails tutorial: first appliation
+
 =========
 
-first ruby on rails application
+This is the first ruby on rails application by yujzhang.
